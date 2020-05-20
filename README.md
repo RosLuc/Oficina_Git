@@ -1,3 +1,4 @@
 # Git e Github
 
-Minicurso PETCC.
+Minicurso PETCC, oficina git.
+[Instagram do PETCC](https://www.instagram.com/petccuern)
